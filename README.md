@@ -41,9 +41,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=migna27&theme=dark" alt="Racha de GitHub" />
 </p>
 
-<!-- Tarjeta de Estadísticas Opcional (Descomentar si funciona con tus repos públicos) -->
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=migna27&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Estadísticas de GitHub" />
-</div>
-
