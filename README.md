@@ -1,4 +1,4 @@
-\# ¡Hola, soy Miguel Osvaldo García Montoya! 👋
+# ¡Hola, soy Miguel Osvaldo García Montoya! 👋
 
 ### 👨‍💻 Estudiante de Ingeniería en Software & Desarrollador
 *Me apasiona la programación, la creación de herramientas digitales, la integración de IA y el desarrollo colaborativo de videojuegos.*
@@ -42,8 +42,8 @@
 </p>
 
 <!-- Tarjeta de Estadísticas Opcional (Descomentar si funciona con tus repos públicos) -->
-<!--
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=migna27&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Estadísticas de GitHub" />
 </div>
--->
+
