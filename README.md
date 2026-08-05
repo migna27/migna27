@@ -14,10 +14,11 @@ Soy un estudiante de Ingeniería en Software en Sonora, México. Me apasiona la 
 * **Audio y Síntesis de Voz:** Ace Studio, Wan3 TTS
 
 ### 📊 Mis Estadísticas de GitHub
+
 <div align="center">
-  <!-- Tarjeta principal de estadísticas -->
-  <img src="https://github-readme-stats.vercel.app/api?username=migna27&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
-  
-  <!-- Tarjeta de lenguajes más usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migna27&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes Top" />
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=migna27&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=migna27&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
