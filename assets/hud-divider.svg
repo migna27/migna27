@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 28" width="1000" height="28" fill="none">
+  <!-- Left HUD bracket -->
+  <path d="M12 20 L4 14 L12 8" stroke="#00A8FF" stroke-width="2" stroke-linecap="square"/>
+  <rect x="20" y="11" width="10" height="6" fill="#FF1744" opacity="0.9"/>
+  <rect x="22" y="13" width="10" height="4" fill="#00A8FF" opacity="0.6"/>
+
+  <!-- Left segmented neon line -->
+  <line x1="38" y1="14" x2="260" y2="14" stroke="#2979FF" stroke-width="1.5" opacity="0.4"/>
+  <line x1="48" y1="14" x2="180" y2="14" stroke="#00A8FF" stroke-width="2" opacity="0.9"/>
+  <!-- Glitch slices left -->
+  <rect x="195" y="10" width="26" height="2" fill="#FF1744" opacity="0.9"/>
+  <rect x="205" y="16" width="32" height="2" fill="#00A8FF" opacity="0.9"/>
+  <line x1="270" y1="14" x2="435" y2="14" stroke="#00A8FF" stroke-width="1.5" stroke-dasharray="12 6 4 6" opacity="0.85"/>
+
+  <!-- Center diamond reticle with Red/Blue RGB offset -->
+  <polygon points="498,4 508,14 498,24 488,14" stroke="#FF1744" stroke-width="1.5" opacity="0.7"/>
+  <polygon points="502,4 512,14 502,24 492,14" stroke="#00A8FF" stroke-width="1.5" opacity="0.7"/>
+  <polygon points="500,4 510,14 500,24 490,14" fill="#0B0D14" stroke="#00A8FF" stroke-width="2"/>
+  <polygon points="500,9 505,14 500,19 495,14" fill="#FF2A85"/>
+  <line x1="455" y1="14" x2="480" y2="14" stroke="#FF1744" stroke-width="2"/>
+  <line x1="520" y1="14" x2="545" y2="14" stroke="#FF1744" stroke-width="2"/>
+  <circle cx="446" cy="14" r="2" fill="#FF2A85"/>
+  <circle cx="554" cy="14" r="2" fill="#00A8FF"/>
+
+  <!-- Right segmented neon line -->
+  <line x1="565" y1="14" x2="730" y2="14" stroke="#00A8FF" stroke-width="1.5" stroke-dasharray="12 6 4 6" opacity="0.85"/>
+  <!-- Glitch slices right -->
+  <rect x="762" y="10" width="32" height="2" fill="#00A8FF" opacity="0.9"/>
+  <rect x="778" y="16" width="26" height="2" fill="#FF2A85" opacity="0.9"/>
+  <line x1="740" y1="14" x2="962" y2="14" stroke="#2979FF" stroke-width="1.5" opacity="0.4"/>
+  <line x1="820" y1="14" x2="952" y2="14" stroke="#FF1744" stroke-width="2" opacity="0.9"/>
+
+  <!-- Right HUD bracket -->
+  <rect x="968" y="13" width="10" height="4" fill="#00A8FF" opacity="0.6"/>
+  <rect x="970" y="11" width="10" height="6" fill="#FF2A85" opacity="0.9"/>
+  <path d="M988 8 L996 14 L988 20" stroke="#FF1744" stroke-width="2" stroke-linecap="square"/>
+</svg>

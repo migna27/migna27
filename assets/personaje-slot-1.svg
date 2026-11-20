@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 440" width="400" height="440" fill="none">
+  <defs>
+    <pattern id="scanlines1" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#00A8FF" opacity="0.05"/>
+    </pattern>
+    <pattern id="grid1" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#2979FF" stroke-width="0.6" opacity="0.16"/>
+    </pattern>
+    <linearGradient id="bgGrad1" x1="0" y1="0" x2="400" y2="440" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0B0D14"/>
+      <stop offset="55%" stop-color="#101320"/>
+      <stop offset="100%" stop-color="#06070B"/>
+    </linearGradient>
+    <linearGradient id="silGrad1" x1="200" y1="120" x2="200" y2="335" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FF1744" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#0099FF" stop-opacity="0.06"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Outer obsidian frame -->
+  <polygon points="18,6 382,6 394,18 394,422 382,434 18,434 6,422 6,18" fill="url(#bgGrad1)" stroke="#1A1E33" stroke-width="1.5"/>
+  <polygon points="18,6 382,6 394,18 394,422 382,434 18,434 6,422 6,18" fill="url(#grid1)"/>
+  <polygon points="18,6 382,6 394,18 394,422 382,434 18,434 6,422 6,18" fill="url(#scanlines1)"/>
+
+  <!-- Red / Electric Blue Glitch border accents -->
+  <polygon points="16,4 380,4 392,16 392,420 380,432 16,432 4,420 4,16" stroke="#FF1744" stroke-width="1" opacity="0.4"/>
+  <polygon points="20,8 384,8 396,20 396,424 384,436 20,436 8,424 8,20" stroke="#00A8FF" stroke-width="1" opacity="0.4"/>
+
+  <!-- Glowing HUD Corner Brackets -->
+  <path d="M12 46 L12 18 L24 6 L56 6" stroke="#FF1744" stroke-width="3" stroke-linecap="square"/>
+  <path d="M344 6 L376 6 L388 18 L388 46" stroke="#00A8FF" stroke-width="3" stroke-linecap="square"/>
+  <path d="M12 394 L12 422 L24 434 L56 434" stroke="#00A8FF" stroke-width="3" stroke-linecap="square"/>
+  <path d="M344 434 L376 434 L388 422 L388 394" stroke="#FF2A85" stroke-width="3" stroke-linecap="square"/>
+
+  <!-- Top HUD Header Bar -->
+  <rect x="22" y="20" width="356" height="34" fill="#101320" stroke="#FF1744" stroke-opacity="0.5" stroke-width="1"/>
+  <rect x="22" y="20" width="5" height="34" fill="#FF1744"/>
+  <text x="36" y="42" fill="#F1F5F9" font-family="Consolas, 'Fira Code', monospace" font-size="13" font-weight="bold" letter-spacing="1">[ CHAR_01 // MAIN AVATAR ]</text>
+  <circle cx="342" cy="37" r="3.5" fill="#FF1744"/>
+  <circle cx="355" cy="37" r="3.5" fill="#FF2A85"/>
+  <circle cx="368" cy="37" r="3.5" fill="#00A8FF"/>
+
+  <!-- Diagonal cyber accents -->
+  <line x1="22" y1="68" x2="90" y2="68" stroke="#00A8FF" stroke-width="2" opacity="0.85"/>
+  <line x1="310" y1="68" x2="378" y2="68" stroke="#FF1744" stroke-width="2" opacity="0.85"/>
+  <rect x="24" y="75" width="32" height="3" fill="#FF2A85" opacity="0.8"/>
+  <rect x="344" y="75" width="32" height="3" fill="#0099FF" opacity="0.8"/>
+
+  <!-- Center Reticle & Orbital HUD Rings -->
+  <circle cx="200" cy="222" r="118" stroke="#2979FF" stroke-width="1" stroke-dasharray="8 6" opacity="0.45"/>
+  <circle cx="200" cy="222" r="102" stroke="#FF1744" stroke-width="1.5" stroke-dasharray="45 14 10 14" opacity="0.75"/>
+  <circle cx="200" cy="222" r="88" stroke="#00A8FF" stroke-width="1" stroke-dasharray="24 18" opacity="0.65"/>
+
+  <!-- Crosshair ticks -->
+  <line x1="70" y1="222" x2="96" y2="222" stroke="#00A8FF" stroke-width="2"/>
+  <line x1="304" y1="222" x2="330" y2="222" stroke="#00A8FF" stroke-width="2"/>
+  <line x1="200" y1="92" x2="200" y2="116" stroke="#FF1744" stroke-width="2"/>
+  <line x1="200" y1="328" x2="200" y2="352" stroke="#FF1744" stroke-width="2"/>
+
+  <!-- Minimalist anime cyber-character silhouette wireframe -->
+  <!-- RGB Red / Blue ghost offsets -->
+  <g transform="translate(-3, 0)" opacity="0.4">
+    <path d="M200 138 C176 138 162 156 164 180 L156 196 L168 202 C172 214 184 222 200 222 C216 222 228 214 232 202 L244 196 L236 180 C238 156 224 138 200 138 Z" stroke="#FF1744" stroke-width="1.5"/>
+    <path d="M132 325 L146 254 L176 236 L200 246 L224 236 L254 254 L268 325" stroke="#FF1744" stroke-width="1.5"/>
+  </g>
+  <g transform="translate(3, 0)" opacity="0.4">
+    <path d="M200 138 C176 138 162 156 164 180 L156 196 L168 202 C172 214 184 222 200 222 C216 222 228 214 232 202 L244 196 L236 180 C238 156 224 138 200 138 Z" stroke="#00A8FF" stroke-width="1.5"/>
+    <path d="M132 325 L146 254 L176 236 L200 246 L224 236 L254 254 L268 325" stroke="#00A8FF" stroke-width="1.5"/>
+  </g>
+
+  <!-- Main anime cyber-avatar wireframe -->
+  <path d="M132 325 L146 254 L176 236 L200 246 L224 236 L254 254 L268 325 Z" fill="url(#silGrad1)" stroke="#FF2A85" stroke-width="2"/>
+  <path d="M162 245 L176 286 L200 296 L224 286 L238 245" stroke="#00A8FF" stroke-width="1.5" opacity="0.9"/>
+  <!-- Cyber head + anime hair silhouette + visor -->
+  <path d="M200 132 L176 136 L160 154 L152 178 L163 176 L166 200 C172 214 184 222 200 222 C216 222 228 214 234 200 L237 176 L248 178 L240 154 L224 136 Z" fill="#101320" fill-opacity="0.9" stroke="#FF1744" stroke-width="2"/>
+  <!-- Spiky anime fringe hints -->
+  <path d="M164 166 L176 152 L185 168 L200 146 L214 168 L225 152 L236 166" stroke="#00A8FF" stroke-width="1.5" fill="none"/>
+  <!-- Cyber visor -->
+  <polygon points="172,180 228,180 222,190 178,190" fill="#FF1744" fill-opacity="0.75" stroke="#00A8FF" stroke-width="1.2"/>
+  <line x1="184" y1="185" x2="216" y2="185" stroke="#F1F5F9" stroke-width="1.4"/>
+
+  <!-- Glitch slice bars across silhouette -->
+  <rect x="115" y="198" width="46" height="3" fill="#00A8FF" opacity="0.8"/>
+  <rect x="242" y="210" width="52" height="3" fill="#FF1744" opacity="0.8"/>
+  <rect x="138" y="274" width="38" height="2.5" fill="#FF2A85" opacity="0.85"/>
+  <rect x="235" y="290" width="44" height="2.5" fill="#00A8FF" opacity="0.85"/>
+
+  <!-- Center status pill -->
+  <rect x="116" y="344" width="168" height="24" rx="2" fill="#0B0D14" stroke="#FF1744" stroke-width="1.2"/>
+  <text x="200" y="360" text-anchor="middle" fill="#F1F5F9" font-family="Consolas, 'Fira Code', monospace" font-size="11" font-weight="bold" letter-spacing="1.2">SLOT 01 // READY</text>
+
+  <!-- Bottom Drop Instruction Bar -->
+  <rect x="22" y="384" width="356" height="36" fill="#101320" stroke="#00A8FF" stroke-opacity="0.55" stroke-width="1"/>
+  <rect x="373" y="384" width="5" height="36" fill="#00A8FF"/>
+  <text x="200" y="407" text-anchor="middle" fill="#94A3B8" font-family="Consolas, 'Fira Code', monospace" font-size="12" font-weight="bold">DROP: assets/personaje-1.png</text>
+</svg>
