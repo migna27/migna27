@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 175" width="800" height="175" fill="none">
+  <defs>
+    <pattern id="ovScan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#FF1744" opacity="0.04"/>
+    </pattern>
+  </defs>
+  <polygon points="16,4 784,4 796,16 796,159 784,171 16,171 4,159 4,16" fill="#0B0D14" stroke="#1A1E33" stroke-width="1.5"/>
+  <polygon points="16,4 784,4 796,16 796,159 784,171 16,171 4,159 4,16" fill="url(#ovScan)"/>
+  <path d="M4 34 L4 16 L16 4 L44 4" stroke="#00A8FF" stroke-width="2.5"/>
+  <path d="M756 4 L784 4 L796 16 L796 34" stroke="#FF1744" stroke-width="2.5"/>
+  <path d="M4 141 L4 159 L16 171 L44 171" stroke="#FF2A85" stroke-width="2.5"/>
+  <path d="M756 171 L784 171 L796 159 L796 141" stroke="#00A8FF" stroke-width="2.5"/>
+  <rect x="24" y="18" width="752" height="34" fill="#101320" stroke="#1A1E33" stroke-width="1"/>
+  <rect x="24" y="18" width="5" height="34" fill="#00A8FF"/>
+  <text x="39" y="40" fill="#F1F5F9" font-family="Consolas, 'Fira Code', monospace" font-size="13.5" font-weight="bold" letter-spacing="1">[ TELEMETRY // RESUMEN DE CUENTA ]</text>
+  <text x="762" y="39" text-anchor="end" fill="#94A3B8" font-family="Consolas, 'Fira Code', monospace" font-size="10.5">USER: migna27 // SYNC: 2026-11-20 UTC</text>
+  <rect x="24" y="68" width="176" height="82" rx="3" fill="#101320" stroke="#00A8FF" stroke-opacity="0.55" stroke-width="1.2"/>
+  <rect x="24" y="68" width="176" height="4" fill="#00A8FF"/>
+  <text x="112" y="95" text-anchor="middle" fill="#94A3B8" font-family="Consolas, 'Fira Code', monospace" font-size="11" font-weight="bold" letter-spacing="1">REPOSITORIOS</text>
+  <text x="112" y="130" text-anchor="middle" fill="#F1F5F9" font-family="Consolas, 'Fira Code', monospace" font-size="22" font-weight="bold">39</text>
+  <rect x="216" y="68" width="176" height="82" rx="3" fill="#101320" stroke="#FF1744" stroke-opacity="0.55" stroke-width="1.2"/>
+  <rect x="216" y="68" width="176" height="4" fill="#FF1744"/>
+  <text x="304" y="95" text-anchor="middle" fill="#94A3B8" font-family="Consolas, 'Fira Code', monospace" font-size="11" font-weight="bold" letter-spacing="1">ESTRELLAS</text>
+  <text x="304" y="130" text-anchor="middle" fill="#F1F5F9" font-family="Consolas, 'Fira Code', monospace" font-size="22" font-weight="bold">0</text>
+  <rect x="408" y="68" width="176" height="82" rx="3" fill="#101320" stroke="#FF2A85" stroke-opacity="0.55" stroke-width="1.2"/>
+  <rect x="408" y="68" width="176" height="4" fill="#FF2A85"/>
+  <text x="496" y="95" text-anchor="middle" fill="#94A3B8" font-family="Consolas, 'Fira Code', monospace" font-size="11" font-weight="bold" letter-spacing="1">SEGUIDORES</text>
+  <text x="496" y="130" text-anchor="middle" fill="#F1F5F9" font-family="Consolas, 'Fira Code', monospace" font-size="22" font-weight="bold">8</text>
+  <rect x="600" y="68" width="176" height="82" rx="3" fill="#101320" stroke="#2979FF" stroke-opacity="0.55" stroke-width="1.2"/>
+  <rect x="600" y="68" width="176" height="4" fill="#2979FF"/>
+  <text x="688" y="95" text-anchor="middle" fill="#94A3B8" font-family="Consolas, 'Fira Code', monospace" font-size="11" font-weight="bold" letter-spacing="1">LENGUAJE TOP</text>
+  <text x="688" y="130" text-anchor="middle" fill="#F1F5F9" font-family="Consolas, 'Fira Code', monospace" font-size="22" font-weight="bold">C#</text>
+</svg>

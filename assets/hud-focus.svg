@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 190" width="520" height="190" fill="none">
+  <defs>
+    <pattern id="focusScan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#00A8FF" opacity="0.045"/>
+    </pattern>
+  </defs>
+
+  <!-- Chamfered obsidian frame -->
+  <polygon points="14,4 506,4 516,14 516,176 506,186 14,186 4,176 4,14" fill="#0B0D14" stroke="#1A1E33" stroke-width="1.5"/>
+  <polygon points="14,4 506,4 516,14 516,176 506,186 14,186 4,176 4,14" fill="url(#focusScan)"/>
+
+  <!-- RGB Glitch outer echoes -->
+  <polygon points="12,3 504,3 514,13 514,175 504,185 12,185 2,175 2,13" stroke="#FF1744" stroke-width="0.9" opacity="0.3"/>
+  <polygon points="16,5 508,5 518,15 518,177 508,187 16,187 6,177 6,15" stroke="#00A8FF" stroke-width="0.9" opacity="0.3"/>
+
+  <!-- HUD Corner Brackets -->
+  <path d="M4 28 L4 14 L14 4 L34 4" stroke="#FF1744" stroke-width="2.5"/>
+  <path d="M486 4 L506 4 L516 14 L516 28" stroke="#00A8FF" stroke-width="2.5"/>
+  <path d="M4 162 L4 176 L14 186 L34 186" stroke="#00A8FF" stroke-width="2.5"/>
+  <path d="M486 186 L506 186 L516 176 L516 162" stroke="#FF2A85" stroke-width="2.5"/>
+
+  <!-- Header bar -->
+  <rect x="16" y="14" width="488" height="24" fill="#101320" stroke="#1A1E33" stroke-width="1"/>
+  <rect x="16" y="14" width="4" height="24" fill="#FF1744"/>
+  <text x="28" y="30" fill="#F1F5F9" font-family="Consolas, 'Fira Code', monospace" font-size="11.5" font-weight="bold" letter-spacing="1">[ SYSTEM MODULES // ACTIVE FOCUS ]</text>
+  <circle cx="472" cy="26" r="3" fill="#FF1744"/>
+  <circle cx="483" cy="26" r="3" fill="#FF2A85"/>
+  <circle cx="494" cy="26" r="3" fill="#00A8FF"/>
+
+  <!-- Row 1: CODE & BACKEND -->
+  <text x="20" y="59" fill="#F1F5F9" font-family="Consolas, 'Fira Code', monospace" font-size="11" font-weight="bold">CODE &amp; BACKEND</text>
+  <text x="155" y="59" fill="#94A3B8" font-family="Consolas, 'Fira Code', monospace" font-size="10">Python · Flask</text>
+  <rect x="20" y="65" width="388" height="8" rx="1.5" fill="#101320" stroke="#1A1E33" stroke-width="0.8"/>
+  <rect x="21" y="66" width="340" height="6" rx="1" fill="#00A8FF"/>
+  <rect x="275" y="65" width="3" height="8" fill="#0B0D14"/>
+  <rect x="320" y="65" width="3" height="8" fill="#0B0D14"/>
+  <rect x="420" y="56" width="80" height="17" rx="2" fill="#101320" stroke="#00A8FF" stroke-width="1"/>
+  <text x="460" y="68" text-anchor="middle" fill="#00A8FF" font-family="Consolas, 'Fira Code', monospace" font-size="9.5" font-weight="bold">ONLINE</text>
+
+  <!-- Row 2: WEB INTERFACES -->
+  <text x="20" y="94" fill="#F1F5F9" font-family="Consolas, 'Fira Code', monospace" font-size="11" font-weight="bold">WEB INTERFACES</text>
+  <text x="155" y="94" fill="#94A3B8" font-family="Consolas, 'Fira Code', monospace" font-size="10">HTML5 · CSS3 · JS</text>
+  <rect x="20" y="100" width="388" height="8" rx="1.5" fill="#101320" stroke="#1A1E33" stroke-width="0.8"/>
+  <rect x="21" y="101" width="320" height="6" rx="1" fill="#FF2A85"/>
+  <rect x="240" y="100" width="3" height="8" fill="#0B0D14"/>
+  <rect x="295" y="100" width="3" height="8" fill="#0B0D14"/>
+  <rect x="420" y="91" width="80" height="17" rx="2" fill="#101320" stroke="#FF2A85" stroke-width="1"/>
+  <text x="460" y="103" text-anchor="middle" fill="#FF2A85" font-family="Consolas, 'Fira Code', monospace" font-size="9.5" font-weight="bold">ACTIVE</text>
+
+  <!-- Row 3: GAME DEV & VN -->
+  <text x="20" y="129" fill="#F1F5F9" font-family="Consolas, 'Fira Code', monospace" font-size="11" font-weight="bold">GAME DEV &amp; VN</text>
+  <text x="155" y="129" fill="#94A3B8" font-family="Consolas, 'Fira Code', monospace" font-size="10">Godot · Ren'Py · Tyrano</text>
+  <rect x="20" y="135" width="388" height="8" rx="1.5" fill="#101320" stroke="#1A1E33" stroke-width="0.8"/>
+  <rect x="21" y="136" width="360" height="6" rx="1" fill="#FF1744"/>
+  <rect x="260" y="135" width="3" height="8" fill="#0B0D14"/>
+  <rect x="330" y="135" width="3" height="8" fill="#0B0D14"/>
+  <rect x="420" y="126" width="80" height="17" rx="2" fill="#101320" stroke="#FF1744" stroke-width="1"/>
+  <text x="460" y="138" text-anchor="middle" fill="#FF1744" font-family="Consolas, 'Fira Code', monospace" font-size="9.5" font-weight="bold">CREATIVE</text>
+
+  <!-- Row 4: AI & AUDIO LAB -->
+  <text x="20" y="164" fill="#F1F5F9" font-family="Consolas, 'Fira Code', monospace" font-size="11" font-weight="bold">AI &amp; AUDIO LAB</text>
+  <text x="155" y="164" fill="#94A3B8" font-family="Consolas, 'Fira Code', monospace" font-size="10">SD · ComfyUI · Ace · Wan3</text>
+  <rect x="20" y="170" width="388" height="8" rx="1.5" fill="#101320" stroke="#1A1E33" stroke-width="0.8"/>
+  <rect x="21" y="171" width="348" height="6" rx="1" fill="#2979FF"/>
+  <rect x="255" y="170" width="3" height="8" fill="#0B0D14"/>
+  <rect x="310" y="170" width="3" height="8" fill="#0B0D14"/>
+  <rect x="420" y="161" width="80" height="17" rx="2" fill="#101320" stroke="#2979FF" stroke-width="1"/>
+  <text x="460" y="173" text-anchor="middle" fill="#60A5FA" font-family="Consolas, 'Fira Code', monospace" font-size="9.5" font-weight="bold">SYNCED</text>
+</svg>
