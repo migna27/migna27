@@ -17,7 +17,7 @@
   <text x="38" y="41" fill="#FF1744" font-family="Consolas, 'Fira Code', monospace" font-size="13.5" font-weight="bold" letter-spacing="1" opacity="0.45">[ TELEMETRY // LENGUAJES EN REPOSITORIOS ]</text>
   <text x="40" y="41" fill="#00A8FF" font-family="Consolas, 'Fira Code', monospace" font-size="13.5" font-weight="bold" letter-spacing="1" opacity="0.45">[ TELEMETRY // LENGUAJES EN REPOSITORIOS ]</text>
   <text x="39" y="41" fill="#F1F5F9" font-family="Consolas, 'Fira Code', monospace" font-size="13.5" font-weight="bold" letter-spacing="1">[ TELEMETRY // LENGUAJES EN REPOSITORIOS ]</text>
-  <text x="762" y="40" text-anchor="end" fill="#94A3B8" font-family="Consolas, 'Fira Code', monospace" font-size="10.5">40 REPOS ANALIZADOS // SYNC: 2026-11-21 UTC</text>
+  <text x="762" y="40" text-anchor="end" fill="#94A3B8" font-family="Consolas, 'Fira Code', monospace" font-size="10.5">40 REPOS ANALIZADOS // SYNC: 2026-11-22 UTC</text>
   <rect x="28" y="74" width="744" height="14" rx="3" fill="#101320" stroke="#1A1E33" stroke-width="1"/>
   <clipPath id="barClip">
     <rect x="28" y="74" width="744" height="14" rx="3"/>
