@@ -17,59 +17,59 @@
   <text x="38" y="41" fill="#FF1744" font-family="Consolas, 'Fira Code', monospace" font-size="13.5" font-weight="bold" letter-spacing="1" opacity="0.45">[ TELEMETRY // LENGUAJES EN REPOSITORIOS ]</text>
   <text x="40" y="41" fill="#00A8FF" font-family="Consolas, 'Fira Code', monospace" font-size="13.5" font-weight="bold" letter-spacing="1" opacity="0.45">[ TELEMETRY // LENGUAJES EN REPOSITORIOS ]</text>
   <text x="39" y="41" fill="#F1F5F9" font-family="Consolas, 'Fira Code', monospace" font-size="13.5" font-weight="bold" letter-spacing="1">[ TELEMETRY // LENGUAJES EN REPOSITORIOS ]</text>
-  <text x="762" y="40" text-anchor="end" fill="#94A3B8" font-family="Consolas, 'Fira Code', monospace" font-size="10.5">40 REPOS ANALIZADOS // SYNC: 2026-11-26 UTC</text>
+  <text x="762" y="40" text-anchor="end" fill="#94A3B8" font-family="Consolas, 'Fira Code', monospace" font-size="10.5">41 REPOS ANALIZADOS // SYNC: 2026-11-27 UTC</text>
   <rect x="28" y="74" width="744" height="14" rx="3" fill="#101320" stroke="#1A1E33" stroke-width="1"/>
   <clipPath id="barClip">
     <rect x="28" y="74" width="744" height="14" rx="3"/>
   </clipPath>
   <g clip-path="url(#barClip)">
-    <rect x="28.00" y="74" width="364.44" height="14" fill="#60A5FA"/>
-    <rect x="392.44" y="74" width="151.07" height="14" fill="#38BDF8"/>
-    <rect x="543.51" y="74" width="104.34" height="14" fill="#2979FF"/>
-    <rect x="647.85" y="74" width="54.79" height="14" fill="#FF1744"/>
-    <rect x="702.65" y="74" width="28.28" height="14" fill="#00A8FF"/>
-    <rect x="730.93" y="74" width="16.68" height="14" fill="#FF2A85"/>
-    <rect x="747.61" y="74" width="15.25" height="14" fill="#FB7185"/>
-    <rect x="762.86" y="74" width="9.14" height="14" fill="#64748B"/>
+    <rect x="28.00" y="74" width="363.85" height="14" fill="#60A5FA"/>
+    <rect x="391.85" y="74" width="150.83" height="14" fill="#38BDF8"/>
+    <rect x="542.67" y="74" width="104.17" height="14" fill="#2979FF"/>
+    <rect x="646.85" y="74" width="54.78" height="14" fill="#FF1744"/>
+    <rect x="701.63" y="74" width="29.36" height="14" fill="#00A8FF"/>
+    <rect x="730.99" y="74" width="16.66" height="14" fill="#FF2A85"/>
+    <rect x="747.65" y="74" width="15.23" height="14" fill="#FB7185"/>
+    <rect x="762.88" y="74" width="9.12" height="14" fill="#64748B"/>
   </g>
   <circle cx="34" cy="124" r="5" fill="#60A5FA"/>
   <text x="47" y="128" fill="#F1F5F9" font-family="Consolas, 'Fira Code', monospace" font-size="12.5" font-weight="bold">C#</text>
-  <text x="384" y="128" text-anchor="end" fill="#60A5FA" font-family="Consolas, 'Fira Code', monospace" font-size="12.5" font-weight="bold">49.0%</text>
+  <text x="384" y="128" text-anchor="end" fill="#60A5FA" font-family="Consolas, 'Fira Code', monospace" font-size="12.5" font-weight="bold">48.9%</text>
   <rect x="28" y="136" width="356" height="7" rx="2" fill="#101320" stroke="#1A1E33" stroke-width="0.8"/>
-  <rect x="28" y="136" width="174.38" height="7" rx="2" fill="#60A5FA"/>
+  <rect x="28" y="136" width="174.10" height="7" rx="2" fill="#60A5FA"/>
   <circle cx="418" cy="124" r="5" fill="#38BDF8"/>
   <text x="431" y="128" fill="#F1F5F9" font-family="Consolas, 'Fira Code', monospace" font-size="12.5" font-weight="bold">CSS</text>
   <text x="768" y="128" text-anchor="end" fill="#38BDF8" font-family="Consolas, 'Fira Code', monospace" font-size="12.5" font-weight="bold">20.3%</text>
   <rect x="412" y="136" width="356" height="7" rx="2" fill="#101320" stroke="#1A1E33" stroke-width="0.8"/>
-  <rect x="412" y="136" width="72.29" height="7" rx="2" fill="#38BDF8"/>
+  <rect x="412" y="136" width="72.17" height="7" rx="2" fill="#38BDF8"/>
   <circle cx="34" cy="168" r="5" fill="#2979FF"/>
   <text x="47" y="172" fill="#F1F5F9" font-family="Consolas, 'Fira Code', monospace" font-size="12.5" font-weight="bold">TypeScript</text>
   <text x="384" y="172" text-anchor="end" fill="#2979FF" font-family="Consolas, 'Fira Code', monospace" font-size="12.5" font-weight="bold">14.0%</text>
   <rect x="28" y="180" width="356" height="7" rx="2" fill="#101320" stroke="#1A1E33" stroke-width="0.8"/>
-  <rect x="28" y="180" width="49.93" height="7" rx="2" fill="#2979FF"/>
+  <rect x="28" y="180" width="49.85" height="7" rx="2" fill="#2979FF"/>
   <circle cx="418" cy="168" r="5" fill="#FF1744"/>
   <text x="431" y="172" fill="#F1F5F9" font-family="Consolas, 'Fira Code', monospace" font-size="12.5" font-weight="bold">HTML</text>
   <text x="768" y="172" text-anchor="end" fill="#FF1744" font-family="Consolas, 'Fira Code', monospace" font-size="12.5" font-weight="bold">7.4%</text>
   <rect x="412" y="180" width="356" height="7" rx="2" fill="#101320" stroke="#1A1E33" stroke-width="0.8"/>
-  <rect x="412" y="180" width="26.22" height="7" rx="2" fill="#FF1744"/>
+  <rect x="412" y="180" width="26.21" height="7" rx="2" fill="#FF1744"/>
   <circle cx="34" cy="212" r="5" fill="#00A8FF"/>
   <text x="47" y="216" fill="#F1F5F9" font-family="Consolas, 'Fira Code', monospace" font-size="12.5" font-weight="bold">Python</text>
-  <text x="384" y="216" text-anchor="end" fill="#00A8FF" font-family="Consolas, 'Fira Code', monospace" font-size="12.5" font-weight="bold">3.8%</text>
+  <text x="384" y="216" text-anchor="end" fill="#00A8FF" font-family="Consolas, 'Fira Code', monospace" font-size="12.5" font-weight="bold">3.9%</text>
   <rect x="28" y="224" width="356" height="7" rx="2" fill="#101320" stroke="#1A1E33" stroke-width="0.8"/>
-  <rect x="28" y="224" width="13.53" height="7" rx="2" fill="#00A8FF"/>
+  <rect x="28" y="224" width="14.05" height="7" rx="2" fill="#00A8FF"/>
   <circle cx="418" cy="212" r="5" fill="#FF2A85"/>
   <text x="431" y="216" fill="#F1F5F9" font-family="Consolas, 'Fira Code', monospace" font-size="12.5" font-weight="bold">JavaScript</text>
   <text x="768" y="216" text-anchor="end" fill="#FF2A85" font-family="Consolas, 'Fira Code', monospace" font-size="12.5" font-weight="bold">2.2%</text>
   <rect x="412" y="224" width="356" height="7" rx="2" fill="#101320" stroke="#1A1E33" stroke-width="0.8"/>
-  <rect x="412" y="224" width="7.98" height="7" rx="2" fill="#FF2A85"/>
+  <rect x="412" y="224" width="7.97" height="7" rx="2" fill="#FF2A85"/>
   <circle cx="34" cy="256" r="5" fill="#FB7185"/>
   <text x="47" y="260" fill="#F1F5F9" font-family="Consolas, 'Fira Code', monospace" font-size="12.5" font-weight="bold">Java</text>
-  <text x="384" y="260" text-anchor="end" fill="#FB7185" font-family="Consolas, 'Fira Code', monospace" font-size="12.5" font-weight="bold">2.1%</text>
+  <text x="384" y="260" text-anchor="end" fill="#FB7185" font-family="Consolas, 'Fira Code', monospace" font-size="12.5" font-weight="bold">2.0%</text>
   <rect x="28" y="268" width="356" height="7" rx="2" fill="#101320" stroke="#1A1E33" stroke-width="0.8"/>
-  <rect x="28" y="268" width="7.30" height="7" rx="2" fill="#FB7185"/>
+  <rect x="28" y="268" width="7.29" height="7" rx="2" fill="#FB7185"/>
   <circle cx="418" cy="256" r="5" fill="#64748B"/>
   <text x="431" y="260" fill="#F1F5F9" font-family="Consolas, 'Fira Code', monospace" font-size="12.5" font-weight="bold">Otros</text>
   <text x="768" y="260" text-anchor="end" fill="#64748B" font-family="Consolas, 'Fira Code', monospace" font-size="12.5" font-weight="bold">1.2%</text>
   <rect x="412" y="268" width="356" height="7" rx="2" fill="#101320" stroke="#1A1E33" stroke-width="0.8"/>
-  <rect x="412" y="268" width="4.37" height="7" rx="2" fill="#64748B"/>
+  <rect x="412" y="268" width="4.36" height="7" rx="2" fill="#64748B"/>
 </svg>
